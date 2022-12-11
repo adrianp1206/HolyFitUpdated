@@ -1,0 +1,12 @@
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\bin\Debug\net7.0\HolyFitLibrary.deps.json
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\bin\Debug\net7.0\HolyFitLibrary.dll
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\bin\Debug\net7.0\HolyFitLibrary.pdb
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\HolyFitLibrary.csproj.AssemblyReference.cache
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\HolyFitLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\HolyFitLibrary.AssemblyInfoInputs.cache
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\HolyFitLibrary.AssemblyInfo.cs
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\HolyFitLibrary.csproj.CoreCompileInputs.cache
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\HolyFitLibrary.dll
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\refint\HolyFitLibrary.dll
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\HolyFitLibrary.pdb
+C:\Users\elk85\source\repos\HolyFit\HolyFitLibrary\obj\Debug\net7.0\ref\HolyFitLibrary.dll
